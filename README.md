@@ -1,2 +1,15 @@
+# Project Name
+
+A Full starter scaffold description.
+
 > [!Important]
-> Yo! 🔥🔥
+>
+> Hit 'npm install' after cloning
+
+## Features
+
+- Typescript, Tailwind, Shadcn-ui, Lucide-icons, React-Router-Dom, React Query, Vite
+
+## Screenshots
+
+- ![alt text](image.png)
