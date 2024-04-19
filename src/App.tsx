@@ -5,7 +5,7 @@ function App() {
         🔥UI Scaffold🔥
       </h1>
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Made with latest and production grade technologies.
+        Made with latest and production grade technologies
       </p>
     </main>
   );
