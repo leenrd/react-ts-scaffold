@@ -12,4 +12,4 @@ A Full starter scaffold description.
 
 ## Screenshots
 
-- ![alt text](image.png)
+- ![alt text](/public/image.png)
